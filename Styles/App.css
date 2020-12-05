@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: Arciform Sans;
+	font-style: normal;
+	font-weight: normal;
+
+}
+
+.logo{
+	position: relative;
+	width: 400px;
+	height: 100px;
+	top: 5px;
+	left: 85px;
+}
+
+.slogan{
+	/* The best website of porn */
+
+	position: absolute;
+	width: 445px;
+	height: 40px;
+	left: 1080px;
+	top: 33px;
+	font-size: 40px;
+	
+}
+
+.buscar{
+	/* barra de busqueda */
+padding-left: 10px;
+position: absolute;
+width: 600px;
+height: 49px;
+left: 53px;
+top: 127px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+.buscar-button{
+	
+
+position: absolute;
+width: 54px;
+height: 49px;
+left: 599px;
+top: 127px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 0px 10px 10px 0px;
+
+}
+
+.opciones1{
+
+position: absolute;
+width: 125px;
+height: 28px;
+left: 50px;
+top: 203px;
+
+background: #D63031;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 20px;
+
+
+
+}
+
+.opciones2{
+
+position: absolute;
+width: 125px;
+height: 28px;
+left: 250px;
+top: 203px;
+
+background: #C4C4C4;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 15px;
+
+}
+
+.opciones3{
+	
+
+position: absolute;
+width: 125px;
+height: 28px;
+left: 450px;
+top: 203px;
+
+background: #C4C4C4;
+
+
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 15px;
+color: #000000;
+
+
+}
+
+.opciones4{
+	/* Rectangle 46 */
+
+position: absolute;
+width: 125px;
+height: 28px;
+left: 650px;
+top: 203px;
+
+background: #C4C4C4;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 15px;
+}
+
+.opciones5{
+	/* Rectangle 47 */
+
+position: absolute;
+width: 125px;
+height: 28px;
+left: 850px;
+top: 203px;
+
+background: #C4C4C4;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 15px;
+
+}
